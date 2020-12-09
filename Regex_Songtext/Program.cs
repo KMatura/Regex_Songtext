@@ -23,7 +23,7 @@ namespace Regex_Songtext
                     foreach (Match item in matchCollection)
                     {
 
-
+                        //f
                         // nimm das Code-snippet und mache eine Funktion daraus (am besten übergibst Du nur den String der Regular Expression) 
                         // und dann:
 
